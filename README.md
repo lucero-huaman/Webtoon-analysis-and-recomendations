@@ -131,4 +131,4 @@ EDA
  Visualización de los datos en Tableau
 -------------------------------------
 
- ![dashboard](https://iili.io/HDHTj07.jpg)(https://public.tableau.com/app/profile/lucero.huam.n/viz/webtoon2prueba/Dashboard13)
+ [![](https://iili.io/HDHTj07.jpg)](https://public.tableau.com/app/profile/lucero.huam.n/viz/webtoon2prueba/Dashboard13)
