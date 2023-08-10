@@ -1,9 +1,9 @@
- DocumentWebtoon-Análisis y recomendaciones
+Webtoon-Análisis y recomendaciones
 ==================================
 
  Webtoon es una platafomra donde se publican comics o historietas que se publican en formato digital y en forma de tiras verticales, optimizadas para su lectura en dispositivos móviles y navegadores web, a este tipo de comic se le atribuye el nombre de webtoon. Estos son una evolución moderna de los cómics tradicionales, diseñados para el consumo en línea y la lectura en dispositivos móviles. Con su variedad de géneros y recomendaciones, ofrecen una experiencia de lectura envolvente y accesible para los amantes de las historias visuales en todo el mundo.  
  Ofrecer recomendaciones para cada género, significa que los lectores pueden recibir sugerencias basadas en sus preferencias de lectura . Esto facilita la exploración de nuevos títulos y géneros, permitiendo a los usuarios descubrir historias emocionantes y cautivadoras que de otra manera podrían haber pasado por alto.  
- Para el siguiente trabajo se empleó el dataset webtoon\_final.xlsx que tiene como diccionario de datos a link
+ Para el siguiente trabajo se empleó el dataset [webtoon\_final.xlsx](https://github.com/lucero-huaman/Webtoon-analysis-and-recomendations/blob/main/webtoon_final.xlsx) que tiene como diccionario de datos a [link](https://github.com/lucero-huaman/Webtoon-analysis-and-recomendations/blob/main/Diccionario%20de%20datos.png)
 
  ![Frame 4](https://iili.io/HtSp0DN.png)Carga de datos
 --------------
